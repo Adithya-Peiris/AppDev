@@ -1,5 +1,5 @@
 import './App.css'
-import Offcanva from '../Components/Navbars/Navbar'
+import Offcanva from '../Components/Navbars/Main-navbar'
 import Home from '../Pages/Home/Home'
 import Aboutus from '../Pages/About Us/About Us'
 import Contactus from '../Pages/Contact Us/Contact Us'
